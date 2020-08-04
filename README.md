@@ -2,17 +2,17 @@
 Building Neural Networks from scratch using Python and NumPy with an Object Oriented approach
 
 ### Currently supported tasks:
-a). Binary Classification
-b). Multi-Class Classification
+a). Binary Classification<br/>
+b). Multi-Class Classification<br/>
 
 ### Learning algorithms that can be implemented:
-a). Batch Gradient Descent
-b). Mini Batch Gradient Descent
-c). Stochastic Gradient Descent
-d). Gradient Descent with Momentum
-e). RMS Prop
-f). Adam
+a). Batch Gradient Descent<br/>
+b). Mini Batch Gradient Descent<br/>
+c). Stochastic Gradient Descent<br/>
+d). Gradient Descent with Momentum<br/>
+e). RMS Prop<br/>
+f). Adam<br/>
 
 ### Loss Functions:
-a). Binary Cross Entropy Loss
-b). Cross Entropy Loss
+a). Binary Cross Entropy Loss<br/>
+b). Cross Entropy Loss<br/>
