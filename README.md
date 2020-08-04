@@ -5,7 +5,7 @@ Building Neural Networks from scratch using Python and NumPy with an Object Orie
 a). Binary Classification<br/>
 b). Multi-Class Classification<br/>
 
-### Learning algorithms that can be implemented:
+### Learning Algorithms:
 a). Batch Gradient Descent<br/>
 b). Mini Batch Gradient Descent<br/>
 c). Stochastic Gradient Descent<br/>
