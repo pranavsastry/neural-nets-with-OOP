@@ -16,3 +16,8 @@ f). Adam<br/>
 ### Loss Functions:
 a). Binary Cross Entropy Loss<br/>
 b). Cross Entropy Loss<br/>
+
+### Regularization:
+a). Dropout
+b). L2
+c). L1
