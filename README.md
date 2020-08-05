@@ -18,6 +18,6 @@ a). Binary Cross Entropy Loss<br/>
 b). Cross Entropy Loss<br/>
 
 ### Regularization:
-a). Dropout
-b). L2
-c). L1
+a). Dropout<br/>
+b). L2<br/>
+c). L1<br/>
