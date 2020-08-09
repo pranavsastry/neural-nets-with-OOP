@@ -24,6 +24,6 @@ c). L1<br/>
 
 ### Visualisations:
 a). Costs<br/>
-![costs](/Visualisations/costs.gif)
+![costs](/Visualisations/costs.gif)<br/>
 b). Accuracy<br/>
-![accuracy](/Visualisations/accu.gif)
+![accuracy](/Visualisations/accu.gif)<br/>
