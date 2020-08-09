@@ -21,3 +21,9 @@ b). Cross Entropy Loss<br/>
 a). Dropout<br/>
 b). L2<br/>
 c). L1<br/>
+
+### Visualisations:
+a). Costs<br/>
+![costs](/Visualisations/costs.gif)
+b). Accuracy<br/>
+![accuracy](/Visualisations/accu.gif)
